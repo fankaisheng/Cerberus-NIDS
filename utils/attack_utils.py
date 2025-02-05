@@ -1,7 +1,7 @@
 from utils.utils import *
 
 
-class NOISE():
+class ActiveThief():
     def __init__(self, pcap_dataset, class_num):
         self.class_num = class_num
         self.pcap_dataset = pcap_dataset
